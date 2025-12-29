@@ -15,10 +15,10 @@ The analysis includes statistical summaries and visualization of acceptance rate
 UCBEHass-PCMLAI-MOD5/
 │
 ├── data/                          
-│   └── coupons.csv                              # Raw and processed coupon data
-├── UCBEHass-PCMLAI-MOD5-Coupon-Analysis.ipynb   # Main Jupyter notebook
+│   └── coupons.csv              # Raw and processed coupon data
+├── Coupons-Data-Analysis.ipynb  # Main Jupyter notebook
 │
-└── README.md                                    # Project documentation
+└── README.md                    # Project documentation
 ```
 ---
 
