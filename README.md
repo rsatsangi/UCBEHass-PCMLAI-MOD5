@@ -158,7 +158,7 @@ The analysis follows a structured exploratory workflow:
 ├── README.md                     # Project documentation
 ├── data/
 │   └── coupons.csv               # Raw dataset
-└── Coupons-Data-Analysis.ipynb   # Jupyter Notebook with full analysis
+└── CouponsDataAnalysis.ipynb     # Jupyter Notebook with full analysis
 ```
 
 ---
